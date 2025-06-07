@@ -1,6 +1,5 @@
 /*
     Receba um número digitado pelo usuário;
-
     Calcule o fatorial deste número.
 */
 

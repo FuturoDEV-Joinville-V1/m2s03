@@ -1,5 +1,6 @@
 /*
-
+    Solicite uma senha para o usuário e valide se a senha é “1234”;
+    Enquanto a senha for diferente deste valor, solicite a senha novamente
 */
 let senha = ''
 do {

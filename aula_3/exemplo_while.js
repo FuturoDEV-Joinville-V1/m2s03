@@ -1,5 +1,6 @@
 /*
-
+    Realizará a soma dos números a partir de 1 até a soma igualar ou ultrapassar 100;
+    Exiba no console o número em que essa soma foi atingida e o valor da soma;
 */
 
 let somatoria = 0;

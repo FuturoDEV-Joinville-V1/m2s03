@@ -1,5 +1,6 @@
 /*
-
+    Receba um número digitado pelo usuário;
+    Exiba a tabuada de multiplicação deste número, de 1 a 10
 */
 
 const numero = prompt("Digite um número:");
